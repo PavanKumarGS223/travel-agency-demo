@@ -1,0 +1,6 @@
+{
+  "name": "Wayfarer Tours & Travels",
+  "description": "Premium small-group expeditions and bespoke private journeys crafted by local travel specialists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
